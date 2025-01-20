@@ -10,10 +10,11 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "type": "commonjs",
     "description": "",
     "devDependencies": {
+        "@ignite-ui/ts-config": "*",
         "tsup": "^8.3.5",
         "typescript": "^5.7.3"
     }
