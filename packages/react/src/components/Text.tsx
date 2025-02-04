@@ -1,4 +1,4 @@
-import { ComponentProps, ElementType, HTMLElementType, ReactNode } from 'react';
+import { ComponentProps, ElementType, ReactNode } from 'react';
 import { styled } from '../styles';
 
 export const Text = styled('p', {
