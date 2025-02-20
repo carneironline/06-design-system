@@ -10,6 +10,9 @@ export default {
         src: 'https://github.com/carneironline.png',
         alt: 'Rodrigo Carneiro',
     },
+    argTypes: {
+        src: { control: 'text' },
+    },
 } as Meta<AvatarProps>;
 
 export const Primary: StoryObj<AvatarProps> = {};
