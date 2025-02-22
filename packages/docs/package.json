@@ -10,7 +10,7 @@
         "__preview": "vite preview",
         "dev": "storybook dev -p 6006",
         "deploy-storybook": "storybook-to-ghpages",
-        "build-storybook": "storybook build"
+        "build": "storybook build"
     },
     "dependencies": {
         "phosphor-react": "^1.4.1",
@@ -34,6 +34,7 @@
         "@storybook/storybook-deployer": "^2.8.16",
         "@storybook/test": "^8.5.8",
         "@storybook/theming": "^8.5.8",
+        "@types/node": "^22.13.5",
         "@types/react": "^18.3.18",
         "@types/react-dom": "^18.3.5",
         "@vitejs/plugin-react": "^4.3.4",
