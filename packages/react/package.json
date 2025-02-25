@@ -1,6 +1,6 @@
 {
-    "name": "@ignite-ui/react",
-    "version": "1.0.0",
+    "name": "@carneiro-ignite-ui/react",
+    "version": "2.0.0",
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
@@ -15,9 +15,9 @@
     "type": "commonjs",
     "description": "",
     "devDependencies": {
-        "@ignite-ui/eslint-config": "*",
-        "@ignite-ui/tokens": "*",
-        "@ignite-ui/ts-config": "*",
+        "@carneiro-ignite-ui/eslint-config": "*",
+        "@carneiro-ignite-ui/tokens": "*",
+        "@carneiro-ignite-ui/ts-config": "*",
         "@types/react": "^19.0.7",
         "@types/react-dom": "^19.0.3",
         "react": "^19.0.0",
