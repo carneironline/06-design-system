@@ -1,19 +1,19 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carneironline/06-design-system?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carneironline/design-system?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/carneironline/06-design-system">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/carneironline/design-system">
 
   <a href="https://www.twitter.com/carneironline/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcarneironline%2F06-design-system">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcarneironline%2Fdesign-system">
   </a>
   
-  <a href="https://github.com/carneironline/06-design-system/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carneironline/06-design-system">
+  <a href="https://github.com/carneironline/design-system/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carneironline/design-system">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/carneironline/06-design-system/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/carneironline/06-design-system?style=social">
+   <a href="https://github.com/carneironline/design-system/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/carneironline/design-system?style=social">
   </a>
 
 </p>
@@ -48,7 +48,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:carneironline/06-design-system.git design-system
+$ git clone git@github.com:carneironline/design-system.git design-system
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd design-system
