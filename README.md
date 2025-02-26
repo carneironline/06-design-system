@@ -88,7 +88,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/1325520?s=460&v=4" width="100px;" alt=""/>
 <br />
-  [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Carneiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carneirorodrigo/)](https://www.linkedin.com/in/carneirorodrigo/)
+ [Rodrigo Carneiro](https://www.linkedin.com/in/carneirorodrigo/)
 
 ---
 
