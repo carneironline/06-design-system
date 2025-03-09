@@ -63,6 +63,19 @@ $ npm run dev
 
 ---
 
+## 🛠 Componenentes
+
+- [ ] Button
+- [ ] Heading
+- [ ] Text
+- [ ] TextInput
+- [ ] Textarea
+- [ ] Checkbox
+- [ ] Avatar
+- [ ] MultiStep
+
+---
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
