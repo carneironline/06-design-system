@@ -63,7 +63,7 @@ $ npm run dev
 
 ---
 
-## 🔴 Componenentes
+## 🔴 Componentes
 
 - [ ] Button
 - [ ] Heading
